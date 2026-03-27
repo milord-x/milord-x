@@ -53,6 +53,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=111111" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/REST-0f172a?logo=fastapi&logoColor=white" alt="REST" />
   <img src="https://img.shields.io/badge/Riverpod-0EA5E9?logo=flutter&logoColor=white" alt="Riverpod" />
 </p>

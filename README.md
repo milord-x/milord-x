@@ -20,7 +20,7 @@
 
 <p align="center">
   Currently studying <strong>LLMs</strong>, <strong>machine learning</strong>, and <strong>Biopython</strong>.<br/>
-  Working on several projects, including <strong>Qnumber</strong>, <strong>UniGuard</strong>, and a private project.
+  Working on several projects, including <strong>private</strong> project.
 </p>
 
 <p align="center">

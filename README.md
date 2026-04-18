@@ -15,12 +15,11 @@
   <img src="https://img.shields.io/badge/Almaty-Kazakhstan-3b82f6?logo=googlemaps&logoColor=white" alt="Almaty, Kazakhstan" />
 </p>
 
-
 <h2 align="center">What I Work On</h2>
 
 <p align="center">
   Currently studying <strong>LLMs</strong>, <strong>machine learning</strong>, and <strong>Biopython</strong>.<br/>
-  Working on several projects, including <strong>private</strong> project.
+  Working on several projects, including both public and private builds.
 </p>
 
 <p align="center">
@@ -29,7 +28,16 @@
   <img src="https://img.shields.io/badge/Biopython-16a34a" alt="Biopython" />
   <img src="https://img.shields.io/badge/Qnumber-111827" alt="Qnumber" />
   <img src="https://img.shields.io/badge/UniGuard-334155" alt="UniGuard" />
-  <img src="https://img.shields.io/badge/Private%20Project-7c3aed" alt="Private Project" />
+  <img src="https://img.shields.io/badge/Private%20Projects-7c3aed" alt="Private Projects" />
+</p>
+
+<h2 align="center">Highlighted Repositories</h2>
+
+<p align="center">
+  <a href="https://github.com/milord-x/Quantum-Aware">Quantum-Aware</a> ·
+  <a href="https://github.com/milord-x/SeqDelta">SeqDelta</a> ·
+  <a href="https://github.com/milord-x/lumaq">lumaq</a> ·
+  <a href="https://github.com/milord-x/Codex-CLI-Wiki">Codex-CLI-Wiki</a>
 </p>
 
 <h2 align="center">Stack</h2>
